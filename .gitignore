@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+
+# 키 파일은 각자 생성한다 (개인키는 절대 저장소에 올리지 않는다)
+test
+test.pub
+test_rsa
+test_rsa.pub
